@@ -1,0 +1,1 @@
+insert_value(root, 12);
