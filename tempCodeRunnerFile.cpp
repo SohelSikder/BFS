@@ -1,1 +1,3 @@
-insert_value(root, 12);
+  // for(int i=0;i<=n;i++){
+    //     insert_tail(head, tail, val);
+    // }
